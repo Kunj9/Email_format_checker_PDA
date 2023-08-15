@@ -1,9 +1,5 @@
 """ 
-Project 2 for CS 341
-Section number : 005
-Semester : Fall 2022
-Written by : Kunj Bhatt, kb556
-Instructor : Marvin Nakayama, marvin@njit.edu
+Written by : Kunj Bhatt
 """
 
 import os
